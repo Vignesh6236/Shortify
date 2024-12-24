@@ -61,7 +61,7 @@ Before you begin, ensure you have the following installed:
 
 4. **Set up environment variables:**
 
-   Create a `.env` file in the root directory and add the following:
+   Create a `.env.local` file in the root directory and add the following:
 
    ```env
    MONGODB_URI=mongodb://localhost:27017
