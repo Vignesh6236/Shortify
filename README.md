@@ -1,36 +1,101 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Shortify 🔗
 
-## Getting Started
+**Shortify** is a modern URL shortener built to create and manage shortened links easily and efficiently. Developed using React, Next.js, MongoDB, and Tailwind CSS, it offers a fast and secure experience.
 
-First, run the development server:
+## Table of Contents
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- [Project Description](#project-description-)
+- [Features](#features-)
+- [Tech Stack](#tech-stack-️)
+- [Prerequisites](#prerequisites-)
+- [Installation and Usage](#installation-and-usage-)
+- [Screenshots](#screenshots-)
+- [Contributing](#contributing-)
+- [Acknowledgments](#acknowledgments-)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Project Description 📋
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Shortify is designed for individuals looking to simplify their URLs. With a clean and simple interface, Shortify makes managing links seamless and intuitive.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Features 🌟
 
-## Learn More
+- **URL Shortening:** Quickly create shortened links for any URL.
+- **Custom Aliases:** Create branded links with custom aliases.
+- **Secure Storage:** All data is securely stored in MongoDB.
+- **Modern UI/UX:** Built with Tailwind CSS for a clean and accessible interface.
 
-To learn more about Next.js, take a look at the following resources:
+## Tech Stack 🛠️
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **[React](https://reactjs.org/):** For building dynamic user interfaces.
+- **[Next.js](https://nextjs.org/):** For server-side rendering and API integration.
+- **[MongoDB](https://www.mongodb.com/):** For secure and scalable data storage.
+- **[Tailwind CSS](https://tailwindcss.com/):** For styling and design.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Prerequisites 📦
 
-## Deploy on Vercel
+Before you begin, ensure you have the following installed:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **[Node.js](https://nodejs.org/):** For running the development server.
+- **[Git](https://git-scm.com/):** For version control and cloning the repository.
+- **[MongoDB](https://www.mongodb.com/):** For local or cloud database setup.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Installation and Usage 🚀
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/Vignesh6236/Shortify.git
+   ```
+
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd shortify
+   ```
+
+3. **Install dependencies:**
+
+   ```bash
+   npm install
+   ```
+
+4. **Set up environment variables:**
+
+   Create a `.env` file in the root directory and add the following:
+
+   ```env
+   MONGODB_URI=mongodb://localhost:27017
+   NEXT_PUBLIC_HOST=http://localhost:3000
+   ```
+
+5. **Start the development server:**
+
+   ```bash
+   npm run dev
+   ```
+
+6. **Access the application:**
+
+   Open your browser and navigate to `http://localhost:3000`.
+
+## Screenshots 📷
+
+### Home Page
+![Screenshot 2024-12-24 124655](https://github.com/user-attachments/assets/6dc1c2cf-27e2-4f19-ae90-60f0c463dbd3)
+
+
+### Generate Page
+![Screenshot 2024-12-24 124840](https://github.com/user-attachments/assets/6595b113-7005-4596-8b2a-52bd7ce19d04)
+
+
+## Contributing 🤝
+
+Contributions are welcome! If you have any ideas or improvements, feel free to submit a [Pull Request](https://github.com/Vignesh6236/Shortify/pulls).
+
+## Acknowledgments 🙏
+
+- **[React](https://reactjs.org/):** For the front-end framework.
+- **[Next.js](https://nextjs.org/):** For server-side rendering and API capabilities.
+- **[MongoDB](https://www.mongodb.com/):** For the database infrastructure.
+- **[Tailwind CSS](https://tailwindcss.com/):** For styling and utility classes.
+- **[MDN Web Docs](https://developer.mozilla.org/en-US/):** For comprehensive web development documentation.
