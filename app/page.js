@@ -20,7 +20,7 @@ export default function Home() {
           <p className={`text-lg font-medium`}>Shortify is a sleek and simple tool to transform long URLs into short, shareable links.</p>
           <div className="flex justify-center items-center gap-10">
             <Link href="/generate"><button className={`bg-teal-100 shadow-lg p-2 rounded ${poppins.className}`}>Try Now</button></Link>
-            <Link href="/github"><button className={`bg-teal-100 shadow-lg p-2 rounded ${poppins.className}`}>Github</button></Link>
+            <Link href="https://github.com/Vignesh6236/Shortify"><button className={`bg-teal-100 shadow-lg p-2 rounded ${poppins.className}`}>Github</button></Link>
           </div>
         </div>
         <div className=" flex justify-start relative">

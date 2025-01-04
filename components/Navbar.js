@@ -13,7 +13,7 @@ const Navbar = () => {
                 <Link href="/">  <li >Home</li></Link>
                 <Link href="/generate">  <li >Shorten</li></Link>
                 <Link href="/generate"><button className='bg-pink-200 shadow-lg p-2 rounded'>Try Now</button></Link>
-                <Link href="https://github.com/CodeWithHarry/Sigma-Web-Dev-Course/blob/main/Video%20136/bitlinks/app/%5Bshorturl%5D/page.js"><button className='bg-pink-200 shadow-lg p-2 rounded'>Github</button></Link>
+                <Link href="https://github.com/Vignesh6236/Shortify"><button className='bg-pink-200 shadow-lg p-2 rounded'>Github</button></Link>
             </ul>
         </nav>
     )
