@@ -105,3 +105,5 @@ Contributions are welcome! If you have any ideas or improvements, feel free to s
 - **[MongoDB](https://www.mongodb.com/):** For the database infrastructure.
 - **[Tailwind CSS](https://tailwindcss.com/):** For styling and utility classes.
 - **[MDN Web Docs](https://developer.mozilla.org/en-US/):** For comprehensive web development documentation.
+- **[Vercel](https://vercel.com/):** For providing seamless deployment and hosting solutions.
+
