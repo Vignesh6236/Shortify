@@ -10,6 +10,7 @@
 - [Prerequisites](#prerequisites-)
 - [Installation and Usage](#installation-and-usage-)
 - [Screenshots](#screenshots-)
+- [Deployment](#deployment-)
 - [Contributing](#contributing-)
 - [Acknowledgments](#acknowledgments-)
 
@@ -86,6 +87,11 @@ Before you begin, ensure you have the following installed:
 
 ### Generate Page
 ![Screenshot 2024-12-24 124840](https://github.com/user-attachments/assets/6595b113-7005-4596-8b2a-52bd7ce19d04)
+
+## Deployment 🚀
+
+Shortify is deployed using **[Vercel](https://vercel.com/)** for seamless hosting and quick deployment. You can access the live site here:  
+**[https://vignesh-shortify.vercel.app/](https://vignesh-shortify.vercel.app/)**
 
 
 ## Contributing 🤝
