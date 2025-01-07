@@ -81,12 +81,22 @@ Before you begin, ensure you have the following installed:
 
 ## Screenshots 📷
 
+### Desktop-
 ### Home Page
-![Screenshot 2024-12-24 124655](https://github.com/user-attachments/assets/6dc1c2cf-27e2-4f19-ae90-60f0c463dbd3)
 
+![Screenshot 2025-01-07 124015](https://github.com/user-attachments/assets/ee22bf3b-bc3a-419b-a609-2aa03e26abd5)
 
 ### Generate Page
-![Screenshot 2024-12-24 124840](https://github.com/user-attachments/assets/6595b113-7005-4596-8b2a-52bd7ce19d04)
+![Screenshot 2025-01-07 124033](https://github.com/user-attachments/assets/52c27a7f-0b97-466a-9b4e-4b6b0500519d)
+
+
+### Mobile-
+### Home Page
+
+![Screenshot_2025-01-07-12-42-39-57_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/user-attachments/assets/e10d8239-1bc4-4c14-bdea-f8ef812da7df)
+
+### Generate Page
+![Screenshot_2025-01-07-12-42-47-54_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/user-attachments/assets/49800d07-07ce-4eb4-9e01-cd92133e6bff)
 
 ## Deployment 🚀
 
